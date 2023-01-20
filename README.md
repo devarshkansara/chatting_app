@@ -9,3 +9,5 @@ User can sign in and sign up to the app can do chat with other users. can also c
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+### Still some error and bug trying to fix it by Tomorrow EOD. ###
